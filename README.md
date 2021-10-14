@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
-<h3 align="center">A passionate Full-stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-stack  Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-01&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-01" /> </p>
 
