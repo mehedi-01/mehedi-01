@@ -50,6 +50,6 @@
 
 <h1>My Github Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-01&show_icons=true&locale=en" alt="mehedi-01"; /></p>
