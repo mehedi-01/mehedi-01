@@ -50,4 +50,4 @@
 
 <h1>My Github Stats</h2>
 
-<img src="https://camo.githubusercontent.com/331fc93a67c2085468f2561e2eadc4428d457a65d47159dd82194da7284a0e60/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536861686a616c616c53686f6861672673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b" alt="mehedi-01" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mehedi-01&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width: 100%;">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-01&show_icons=true&locale=en" alt="mehedi-01"; theme="dark" style="max-width: 100%;" /></p>
