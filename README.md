@@ -51,6 +51,6 @@
 <h1>My Github Stats</h2>
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-01&theme=highcontrast&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&layout=compact)](https://github.com/mehedi-01/github-readme-stats)
 
 
