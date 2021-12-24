@@ -52,4 +52,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-01&theme=highcontrast&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-01&show_icons=true&locale=en" alt="mehedi-01"; /></p>
