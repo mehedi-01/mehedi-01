@@ -51,4 +51,4 @@
 <h1>My Github Stats</h2>
 
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&layout=compact)](https://github.com/mehedi-01/github-readme-stats)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-01&show_icons=true&locale=en" alt="mehedi-01"; theme=dark" style="max-width: 100%; /></p>
