@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-01&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-01" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - I’m looking to collaborate **Open Source Project**
 
 - 👨‍💻 All of my projects are available at [github.com/mehedi-01?tab=repositories](github.com/mehedi-01?tab=repositories)
 
 - 📫 How to reach me **mehedihasan376766@gmail.com**
 
-- ⚡ Fun fact **I like to play the guitar and like to travel**
+- ⚡ Fun fact **I  like to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
