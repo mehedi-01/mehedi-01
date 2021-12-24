@@ -51,6 +51,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<h1>My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-01&show_icons=true&locale=en&layout=compact" alt="mehedi-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-01&show_icons=true&locale=en" alt="mehedi-01" /></p>
