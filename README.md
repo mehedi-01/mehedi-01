@@ -49,7 +49,6 @@
 </p>
 
 <h1>My Github Stats</h2>
-
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-01&theme=highcontrast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&langs_count=8)](https://github.com/mehedi-01/github-readme-stats)
 
