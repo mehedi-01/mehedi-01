@@ -13,12 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/mehedi-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-01" height="30" width="40" /></a>
-  
-
 <a href="https://www.hackerrank.com/mehedi_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehedi_01" height="30" width="40" /></a>
-  
 <a href="https://www.leetcode.com/mehedi-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehedi-01" height="30" width="40" /></a>
 </p>
 
@@ -40,7 +36,7 @@
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-01&theme=highcontrast&show_icons=true)
 
-"https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&theme=dracula&hide=python,html,css"
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&theme=dracula&hide=python,html,css)
 
 
 
