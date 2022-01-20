@@ -39,7 +39,7 @@
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-01&theme=highcontrast&show_icons=true)
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Stas](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-01&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 
 
