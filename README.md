@@ -7,7 +7,7 @@
 
 - My WhatsApp Account **https://api.whatsapp.com/send?phone=8801750763767&text=Text%20me**
 
-- 📫 How to reach me **mehedi35-210@diu.edu.bd**
+- 📫 How to reach me **mehedi.dev01@gmail.com**
 
 - ⚡ Fun fact **I  like to travel**
 
